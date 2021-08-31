@@ -1,6 +1,6 @@
-# SplitFedLearning
+# SplitFed Learning
 
-SplitFedLearning is a combination of Federated Learning and Split Learning. 
+SplitFed Learning is a combination of Federated Learning and Split Learning. 
 I intends to provide the best of the both worlds.
 Here I have implemented the SplitFedLearning using MNIST dataset.
 
