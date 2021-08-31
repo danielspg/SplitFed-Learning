@@ -1,0 +1,2 @@
+# SplitFedLearning
+SplitFedLearning using MNIST
